@@ -2,15 +2,15 @@
 
 > Ecosystem navigation preview · Documentation only
 
-Kimlik, yapılandırma, yetki, bilgi ve süreklilik. This repository documents module ownership; active code and deployment stay in [MUBA/main](https://github.com/MUBA-RH/MUBA/tree/main).
+Identity, configuration, authority, knowledge and continuity. This repository documents module ownership; active code and deployment stay in [MUBA/main](https://github.com/MUBA-RH/MUBA/tree/main).
 
 ## Find a module
 
 | Area | Modules in this area | Architecture | Working source |
 | --- | --- | --- | --- |
-| Kimlik ve yetki | IDENTITY · CONFIGURATION · AUTHORITY · LANGUAGE | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/01-core) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/muba_authorizations.json) |
-| Bilgi ve hafıza | KNOWLEDGE · MEMORY-CONTEXT · UPDATES | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/01-core) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/muba_history.json) |
-| Kontroller | RISK-POLICY · CONTINUITY | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/01-core) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/scripts/check_continuity.py) |
+| Identity and authority | IDENTITY · CONFIGURATION · AUTHORITY · LANGUAGE | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/01-core) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/muba_authorizations.json) |
+| Knowledge and memory | KNOWLEDGE · MEMORY-CONTEXT · UPDATES | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/01-core) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/muba_history.json) |
+| Controls | RISK-POLICY · CONTINUITY | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/01-core) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/scripts/check_continuity.py) |
 
 [All modules and flows](MODULE_MAP.md) · [Back to MUBA ecosystem](https://github.com/MUBA-RH/MUBA/tree/preview/ecosystem-navigation-20260928)
 
